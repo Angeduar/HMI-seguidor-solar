@@ -1,0 +1,25 @@
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\SolGui.exe.config
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\SolGui.exe.manifest
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\SolGui.application
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\SolGui.exe
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\SolGui.pdb
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.Form1.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.Form2.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.Form3.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.Form4.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.Form5.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\SolGui.Properties.Resources.resources
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\SolGui.exe.manifest
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\SolGui.application
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\SolGui.exe
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\SolGui.pdb
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\obj\Release\Solgui.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\controlu.dll
+C:\Users\Angel\Desktop\PRUEBAS VISUAL STUDIO\Solgui\Solgui\bin\Release\controlu.pdb
+C:\Users\Angel\Desktop\Solgui\Solgui\bin\Release\SolGUI.exe.config
+C:\Users\Angel\Desktop\Solgui\Solgui\obj\Release\SolGUI.exe
+C:\Users\Angel\Desktop\Solgui\Solgui\obj\Release\SolGUI.pdb
+C:\Users\Angel\Documents\Solgui\Solgui\bin\Release\SolGUI.exe.config
+C:\Users\Angel\Documents\Solgui\Solgui\obj\Release\SolGUI.exe
+C:\Users\Angel\Documents\Solgui\Solgui\obj\Release\SolGUI.pdb
